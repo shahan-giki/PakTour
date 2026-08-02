@@ -1,0 +1,126 @@
+city,name,category,description,image
+Abbottabad,Shimla Hill Trekking,Adventure,Trek up the pine-covered trails of Shimla Peak for sweeping views.,images/activities/shimla_trekking.jpg
+Abbottabad,Ilyasi Spring Picnic,Family,Relax near the natural freshwater spring and taste local pakoras.,images/activities/ilyasi_picnic.jpg
+Abbottabad,St. Luke's Heritage Walk,Historical,Explore British-era architecture and historical colonial landmarks.,images/activities/st_lukes_walk.jpg
+Abbottabad,Piffer Golf Club Tour,Nature,Enjoy peaceful views over green pine-forested golf courses.,images/activities/piffer_golf.jpg
+Abbottabad,Cantt Street Food Tasting,Food,Sample local street food and hot tea in Abbottabad Cantonment.,images/activities/cantt_food.jpg
+Bahawalpur,Cholistan Desert Safari,Adventure,Thrilling 4x4 sand dune bashing and desert camping near Derawar Fort.,images/activities/cholistan_safari.jpg
+Bahawalpur,Noor Mahal Palace Tour,Historical,Guided heritage tour of royal artifacts and Italianate architecture.,images/activities/noor_mahal_tour.jpg
+Bahawalpur,Bahawalpur Zoo & Boating,Family,Family day out exploring wildlife exhibits and paddle boating on the lake.,images/activities/bahawalpur_zoo_boating.jpg
+Bahawalpur,Central Library Reading & Architecture,Nature,Quiet afternoon strolling through Victorian gardens and historic books.,images/activities/library_stroll.jpg
+Bahawalpur,Royal Sajji & BBQ Feast,Food,Savor traditional Cholistani chicken and lamb sajji roasted over coals.,images/activities/royal_sajji.jpg
+Chitral,Kalash Cultural Festival,Historical,Immerse in ancient indigenous Kalash traditions, music, and dance.,images/activities/kalash_festival.jpg
+Chitral,Garam Chashma Hot Springs Bath,Nature,Soak in natural therapeutic hot mineral springs in the mountain valley.,images/activities/garam_chashma_bath.jpg
+Chitral,Tirich Mir Base Camp Trek,Adventure,Challenging alpine trek toward the highest peak of the Hindu Kush.,images/activities/tirich_mir_trek.jpg
+Chitral,Chitral River Trout Fishing,Family,Fun family trout fishing and riverside picnic along the Chitral River.,images/activities/trout_fishing.jpg
+Chitral,Traditional Chitrali Food Experience,Food,Taste authentic Chitrali dishes including Kaghazi, Ghalandi, and fresh walnut bread.,images/activities/chitrali_food.jpg
+Dera Ghazi Khan,Fort Munro Hill Station Trek,Adventure,Cool mountain trekking and paragliding opportunities at 6470 feet elevation.,images/activities/fort_munro_trek.jpg
+Dera Ghazi Khan,Sakhi Sarwar Shrine Visit,Historical,Cultural pilgrimage and exploration of 12th-century Sufi heritage.,images/activities/sakhi_sarwar_visit.jpg
+Dera Ghazi Khan,Indus River Sunset Boat Ride,Nature,Relaxing evening boat cruise along the historic Indus River.,images/activities/indus_boat_ride.jpg
+Dera Ghazi Khan,Taunsa Barrage Picnic Park,Family,Family picnic day near the massive irrigation barrage and bird sanctuary.,images/activities/taunsa_picnic.jpg
+Dera Ghazi Khan,Sajji & Sohan Halwa Tasting,Food,Taste traditional Balochi sajji and famous local sweet halwa.,images/activities/dgkhan_food.jpg
+Faisalabad,Clock Tower Market Walk,Historical,Explore the historic 8 bazaars radiating from the 1906 British Clock Tower.,images/activities/clock_tower_walk.jpg
+Faisalabad,Gatwala Wildlife Park Safari,Family,Family safari ride, botanical garden stroll, and lake boating.,images/activities/gatwala_safari.jpg
+Faisalabad,Faisalabad Street Food Crawl,Food,Tasting trip trying famous Baba Tikka, samosa chaat, and rabri doodh.,images/activities/faisalabad_food_crawl.jpg
+Faisalabad,Canal Park Cycling & Stroll,Nature,Morning cycling and walking along the green banks of the Rakh Branch Canal.,images/activities/canal_cycling.jpg
+Faisalabad,Agri-Tourism Farm Visit,Adventure,Hands-on farming experience and ATV ride at University of Agriculture farms.,images/activities/agri_farm.jpg
+Gilgit,Naltar Valley Skiing & Lakes Tour,Adventure,Alpine skiing in winter or visiting colorful high-altitude Naltar Lakes in summer.,images/activities/naltar_lakes.jpg
+Gilgit,Kargah Buddha Rock Art Trail,Historical,Walk along Kargah Nullah cliff side to view 7th-century carved Buddha.,images/activities/kargah_buddha_walk.jpg
+Gilgit,Gilgit River Trout Dinner,Food,Enjoy freshly caught fried trout seasoned with mountain herbs by the river.,images/activities/trout_dinner.jpg
+Gilgit,Danyore Suspension Bridge Crossing,Adventure,Exhilarating walk across a high suspension bridge hanging over the gorge.,images/activities/danyore_bridge_crossing.jpg
+Gilgit,Naltar Pine Forest Picnic,Family,Family forest retreat among ancient pine trees and crystal streams.,images/activities/naltar_forest_picnic.jpg
+Gujranwala,Historic Old City Gate Tour,Historical,Heritage walk through Lahore Gate and ancient Mughal-Sikh remnants.,images/gujranwala/old_city_tour.jpg
+Gujranwala,Shahbaz Tikka & Karahi Feast,Food,Famous culinary feast featuring mutton tikka, kabab, and karahi.,images/activities/gujranwala_tikka_feast.jpg
+Gujranwala,Sheranwala Bagh Stroll,Nature,Relaxing stroll through royal gardens containing ancient samadhi monuments.,images/activities/sheranwala_stroll.jpg
+Gujranwala,Jinnah Park Amusement Ride,Family,Family rides, boating, and children's play zones in central city park.,images/activities/jinnah_park_rides.jpg
+Gujranwala,Wrestling Pehlwani Dangal Watch,Adventure,Watch traditional Punjabi wrestling matches (Dangal) at historic akharas.,images/activities/pehlwani_dangal.jpg
+Hyderabad,Sindh Museum Heritage Tour,Historical,Explore ancient Indus Valley pottery, weapons, and royal Talpur relics.,images/activities/sindh_museum_tour.jpg
+Hyderabad,Resham Gali Shopping Spree,Family,Bustling family shopping trip for traditional Sindhi bangles, ajrak, and shawls.,images/activities/resham_gali_shopping.jpg
+Hyderabad,Bombay Bakery Cake Tasting,Food,Taste world-famous coffee and chocolate cakes from historic 1911 bakery.,images/activities/bombay_bakery_tasting.jpg
+Hyderabad,Indus River Bank Sunset,Nature,Enjoy serene sunset views over the Indus River from Kotri Barrage park.,images/activities/indus_sunset_hyderabad.jpg
+Hyderabad,Pacco Qillo Fort Exploration,Historical,Walk the massive brick ramparts of the 18th-century Kalhora fortress.,images/activities/pacco_qillo_exploration.jpg
+Islamabad,Margalla Hills Hiking Trail 3,Adventure,Scenic mountain trail hike leading up to Monal with panoramic city views.,images/activities/margalla_trail3.jpg
+Islamabad,Faisal Mosque Architecture Tour,Historical,Guided exploration of modern Islamic architecture and Margalla backdrop.,images/activities/faisal_mosque_tour.jpg
+Islamabad,Lok Virsa Heritage Fair,Historical,Experience live folk music, artisan stalls, and cultural exhibits.,images/activities/lok_virsa_fair.jpg
+Islamabad,Rawal Lake Boating & Picnic,Family,Family day out with pedal boats, bird watching, and lakeside barbecue.,images/activities/rawal_lake_boating.jpg
+Islamabad,Saidpur Village Dining,Food,Taste gourmet Pakistani delicacies in a restored 500-year-old mountain village.,images/activities/saidpur_dining.jpg
+Karachi,Clifton Beach Camel & Horse Riding,Family,Fun seaside rides along the Arabian coast with family and children.,images/activities/clifton_beach_riding.jpg
+Karachi,Burns Road Food Safari,Food,Late-night street food tour sampling historic Nihari, Rabri, and Haleem.,images/activities/burns_road_safari.jpg
+Karachi,Scuba Diving at Churna Island,Adventure,Thrilling boat trip for cliff jumping, snorkeling, and coral reef scuba diving.,images/activities/churna_scuba.jpg
+Karachi,Mohatta Palace Art Exhibit,Historical,Explore Victorian-Indo architecture and rare art exhibitions in Rajasthan pink stone.,images/activities/mohatta_palace_art.jpg
+Karachi,Mangrove Forest Kayaking,Nature,Guided eco-kayaking tour through dense coastal mangrove creeks.,images/activities/mangrove_kayaking.jpg
+Khuzdar,Moola Chotok Canyon Trek,Adventure,Trekking through deep rock gorges to swim in hidden emerald waterfall pools.,images/activities/moola_chotok_trek.jpg
+Khuzdar,Stargazing at Baghwana Valley,Nature,Camping under crystal clear night skies free from light pollution.,images/activities/baghwana_stargazing.jpg
+Khuzdar,Ziarat Pir Umar Heritage Stroll,Historical,Exploring ancient spiritual shrines and traditional Baloch architecture.,images/activities/ziarat_stroll.jpg
+Khuzdar,Balochi Sajji & Khaddi Kebab Feast,Food,Traditional pit-cooked lamb feast served with flat naan bread.,images/activities/balochi_sajji_feast.jpg
+Khuzdar,Karkh Stream Family Picnic,Family,Riverside family picnic alongside fresh flowing mountain streams.,images/activities/karkh_stream_picnic.jpg
+Lahore,Food Street Visit,Food,Famous traditional food experience facing the illuminated Badshahi Mosque.,images/activities/food_street.jpg
+Lahore,Walled City Heritage Walk,Historical,Guided walk through Delhi Gate, Shahi Hammam, and Wazir Khan Mosque.,images/activities/walled_city_walk.jpg
+Lahore,Shalimar Gardens Botanical Tour,Nature,Stroll through terraced Mughal marble fountains and historical gardens.,images/activities/shalimar_gardens_walk.jpg
+Lahore,Greater Iqbal Park Train Ride,Family,Family light show, musical fountains, and mini train ride around Minar-e-Pakistan.,images/activities/iqbal_park_train.jpg
+Lahore,Wagah Border Ceremony Tour,Adventure,High-energy patriotic flag-lowering military parade ceremony at the border.,images/activities/wagah_border.jpg
+Larkana,Mohenjo-daro Archaeological Stroll,Historical,Walk through 4500-year-old planned streets, Buddhist stupa, and Great Bath.,images/larkana/mohenjodaro_stroll.jpg
+Larkana,Indus River Sunset Cruise,Nature,Peaceful riverboat voyage observing freshwater Indus river dolphins.,images/activities/indus_dolphin_cruise.jpg
+Larkana,Garhi Khuda Bakhsh Tour,Historical,Visiting the monumental mausoleum complex and learning modern history.,images/activities/garhi_khuda_bakhsh_tour.jpg
+Larkana,Traditional Sindhi Biryani Feast,Food,Sampling spicy aromatic Sindhi biryani made with local spices.,images/activities/sindhi_biryani_feast.jpg
+Larkana,Shahnawaz Library Family Stroll,Family,Family garden stroll around historic library and cultural center.,images/activities/larkana_library_stroll.jpg
+Mardan,Takht-i-Bahi Monastery Hike,Historical,Hike up the hillside to explore 1st-century AD UNESCO Buddhist ruins.,images/activities/takht_i_bahi_hike.jpg
+Mardan,Chappli Kabab Food Tasting,Food,Taste authentic world-famous beef chappli kababs cooked in natural fat.,images/activities/chappli_kabab_tasting.jpg
+Mardan,Jamal Garhi Archaeology Trail,Adventure,Scrambling up mountain trail to discover ancient Gandharan stupas.,images/activities/jamal_garhi_trail.jpg
+Mardan,Bacha Khan Park Family Outing,Family,Amusement park rides, open green lawns, and flower garden walk.,images/activities/bacha_khan_park_outing.jpg
+Mardan,Swat Canal Bank Walk,Nature,Cool morning walk alongside green banks of the Upper Swat Canal.,images/activities/swat_canal_walk.jpg
+Mingora,Swat River White Water Rafting,Adventure,Exhilarating river rafting on foaming emerald waters of Swat River.,images/activities/swat_river_rafting.jpg
+Mingora,Swat Museum Gandhara Tour,Historical,Guided exploration of ancient Buddhist statues and relics.,images/activities/swat_museum_tour.jpg
+Mingora,Fizagat Park Family Boating,Family,Lakeside pedal boating, rides, and riverside dining for families.,images/activities/fizagat_boating.jpg
+Mingora,Fresh River Trout BBQ,Food,Dining on grilled mountain trout served with hot naan and chutney.,images/activities/river_trout_bbq.jpg
+Mingora,White Palace Murghazar Stroll,Nature,Walking through marble palace gardens surrounded by forested peaks.,images/activities/white_palace_stroll.jpg
+Multan,Sufi Shrine Night Qawwali,Historical,Soulful evening of live Sufi music and qawwali at Shah Rukn-e-Alam.,images/activities/sufi_qawwali.jpg
+Multan,Hafiz Sohan Halwa Tasting,Food,Taste world-renowned traditional sweet halvah flavored with saffron and nuts.,images/activities/sohan_halwa_tasting.jpg
+Multan,Blue Pottery Workshop Visit,Historical,Hands-on pottery workshop witnessing traditional Kashigari ceramic art.,images/activities/blue_pottery_workshop.jpg
+Multan,Fort Kohna Park Sunset Stroll,Nature,Panoramic view of old city rooftops and sunset from high fort mound.,images/activities/fort_kohna_sunset.jpg
+Multan,Chaman Zar-e-Zainab Park Outing,Family,Family recreational outing with children's play park and boating.,images/activities/multan_family_park.jpg
+Muzaffarabad,Pir Chinasi Mountain Drive,Adventure,Thrilling winding drive to 9500 ft peak with cloud-level views.,images/activities/pir_chinasi_drive.jpg
+Muzaffarabad,Neelum River Rafting & Kayaking,Adventure,Exciting river water sports in crystal clear mountain currents.,images/activities/neelum_kayaking.jpg
+Muzaffarabad,Red Fort Heritage Walk,Historical,Explore 16th-century Chak dynasty stone fort overlooking the bend of the river.,images/activities/red_fort_walk.jpg
+Muzaffarabad,Neelum-Jhelum Confluence View,Nature,Sit by the riverbank watching two distinct colored rivers merge.,images/activities/confluence_view.jpg
+Muzaffarabad,Kashmiri Cuisine & Salt Tea,Food,Enjoy authentic Kashmiri Gushtaba, Rista, and Pink Noon Chai.,images/activities/kashmiri_cuisine.jpg
+Nawabshah,Chotiari Reservoir Bird Watching,Nature,Eco-tour exploring wetland lakes and spotting migratory birds.,images/activities/chotiari_bird_watching.jpg
+Nawabshah,Tomb of Kalhoro Heritage Visit,Historical,Discover 18th-century brick architecture and intricate Sindhi tile art.,images/activities/kalhoro_tomb_visit.jpg
+Nawabshah,Khoja Garden Family Outing,Family,Relaxing family evening surrounded by fountains and manicured lawns.,images/activities/khoja_garden_outing.jpg
+Nawabshah,Darawat Dam Fishing & Picnic,Adventure,Freshwater fishing and lakeside camping near the dam.,images/activities/darawat_dam_fishing.jpg
+Nawabshah,Sindhi Biryani & Palla Fish Feast,Food,Savor iconic Sindhi biryani and Indus River Palla fish.,images/activities/nawabshah_food_feast.jpg
+Peshawar,Qissa Khwani Bazaar Storyteller Walk,Historical,Walk historic Silk Road alleys where merchants shared legends over green tea.,images/activities/qissa_khwani_walk.jpg
+Peshawar,Nisar Charsi Tikka Feast,Food,Legendary Pashtun meat feast cooked with minimal salt and natural fat.,images/activities/charsi_tikka_feast.jpg
+Peshawar,Khyber Pass Safari Tour,Adventure,Drive through historic Khyber Pass toward Torkham border.,images/activities/khyber_pass_safari.jpg
+Peshawar,Peshawar Museum Gandhara Art,Historical,View world's largest collection of Buddhist Gandhara sculptures.,images/activities/peshawar_museum_art.jpg
+Peshawar,Shahi Bagh Family Picnic,Family,Family day out in historic royal gardens with playground and lake.,images/activities/shahi_bagh_picnic.jpg
+Quetta,Hanna Lake Boating & Picnic,Family,Boating on turquoise waters surrounded by majestic barren mountains.,images/activities/hanna_lake_boating.jpg
+Quetta,Urak Valley Apple Orchard Stroll,Nature,Walking through fragrance-filled apple and cherry orchards.,images/activities/urak_valley_stroll.jpg
+Quetta,Hazarganji Markhor Safari Trek,Adventure,Mountain trek in search of rare Chiltan Markhor wild goats.,images/activities/markhor_safari.jpg
+Quetta,Lehri Sajji & Dumpukht Feast,Food,Taste authentic Balochi lamb Sajji and steam-cooked Dumpukht.,images/activities/quetta_sajji_feast.jpg
+Quetta,Quetta Archaeological Museum Tour,Historical,Exploring ancient Persian, Balochi, and Islamic coins and swords.,images/activities/quetta_museum_tour.jpg
+Rawalpindi,Ayub National Park Boating & Jungle World,Family,Explore Asia's largest park with zoo safari, boating lake, and rides.,images/activities/ayub_park_family.jpg
+Rawalpindi,Raja Bazaar Antique Shopping,Historical,Bustling walk through century-old bazaars for spices, brass, and antiques.,images/activities/raja_bazaar_shopping.jpg
+Rawalpindi,Margalla Foothills Mountain Biking,Adventure,Off-road cycling and mountain biking along the rugged hill tracks.,images/activities/rawalpindi_biking.jpg
+Rawalpindi,Savour Foods Pulao Feast,Food,Taste legendary chicken pulao served with shami kababs and mint chutney.,images/activities/savour_pulao_feast.jpg
+Rawalpindi,Liaquat Bagh Evening Stroll,Nature,Relaxing evening walk under mature trees in historic public park.,images/activities/liaquat_bagh_stroll.jpg
+Sargodha,Kirana Hills Rock Climbing,Adventure,Thrilling rock climbing and hiking on ancient geological ridges.,images/activities/kirana_hills_climbing.jpg
+Sargodha,Citrus Orchard Orange Picking,Nature,Walk through world-famous Kinnow orange orchards and taste fresh juice.,images/activities/citrus_orange_picking.jpg
+Sargodha,Mian Ji Daal & Desi Ghee Roti,Food,Taste famous highway dhaba lentils cooked in pure desi ghee.,images/activities/mian_ji_daal.jpg
+Sargodha,Remount Depot Horse Riding,Historical,Visit British-era military equine depot and watch horse riding.,images/activities/remount_depot_horses.jpg
+Sargodha,Company Bagh Family Outing,Family,Family picnic day amidst lush flower displays and shade trees.,images/activities/company_bagh_family.jpg
+Sialkot,Iqbal Manzil Literary Heritage Tour,Historical,Explore personal library, rare photos, and birthplace of Allama Iqbal.,images/activities/iqbal_manzil_tour.jpg
+Sialkot,Marala Headworks Boating & Sunset,Nature,Riverside sunset viewing and boat ride near Chenab River dam.,images/activities/marala_headworks_sunset.jpg
+Sialkot,Sports Goods Factory Tour,Family,Educational tour witnessing hand-stitched FIFA football manufacturing.,images/activities/sports_factory_tour.jpg
+Sialkot,Sialkot Fort Hill Hike,Adventure,Hike up the ancient fort mound for views over the city landscape.,images/activities/sialkot_fort_hike.jpg
+Sialkot,Sialkot Food Street Tikka Feast,Food,Tasting traditional charcoal-grilled tikka kababs and katakat.,images/activities/sialkot_tikka_feast.jpg
+Sukkur,Lansdowne Bridge Evening Walk,Historical,Walk along historic 1889 British steel bridge with Indus views.,images/activities/lansdowne_bridge_walk.jpg
+Sukkur,Sukkur Barrage Boat Cruise,Family,Family boat trip across the Indus River facing the 66-arch barrage.,images/activities/sukkur_barrage_cruise.jpg
+Sukkur,Sadbhalo Island Temple Visit,Historical,Take a boat to spiritual 19th-century island temple in the Indus.,images/activities/sadbhalo_visit.jpg
+Sukkur,Indus River Fish (Palla) Tasting,Food,Taste famous river fish fried with traditional Sindhi spices.,images/activities/palla_fish_tasting.jpg
+Sukkur,Lab-e-Mehran Park Sunset Stroll,Nature,Riverside park stroll enjoying fresh breeze and Indus palm views.,images/activities/lab_e_mehran_stroll.jpg
+Turbat,Punno Fort Legend & History Walk,Historical,Explore ancient mud fort ruins linked to folk romance of Sassi Punnu.,images/activities/punno_fort_walk.jpg
+Turbat,Kech Date Palm Harvest Tour,Nature,Stroll through lush date palm groves during harvest season.,images/activities/date_palm_tour.jpg
+Turbat,Mirani Dam Camping & Fishing,Adventure,Overnight lakeside camping and freshwater fishing at Mirani Dam.,images/activities/mirani_dam_camping.jpg
+Turbat,Balochi Sajji & Kech Feast,Food,Traditional Balochi lamb sajji roasted on open wood fires.,images/activities/turbat_sajji_feast.jpg
+Turbat,Kech River Bank Family Outing,Family,Family gathering alongside fresh river streams and palm shade.,images/activities/kech_river_outing.jpg

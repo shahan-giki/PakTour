@@ -1,0 +1,126 @@
+city,name,cuisine,rating,image
+Abbottabad,Red Onion Restaurant,Fast Food & Pakistani,4.4,images/restaurants/red_onion_abbottabad.jpg
+Abbottabad,Usmania Restaurant Abbottabad,Pakistani,4.5,images/restaurants/usmania_abbottabad.jpg
+Abbottabad,Shinwari Tikka Abbottabad,Pashtun BBQ,4.6,images/restaurants/shinwari_abbottabad.jpg
+Abbottabad,Monal Abbottabad,Pakistani & Continental,4.7,images/restaurants/monal_abbottabad.jpg
+Abbottabad,Karakoram Restaurant,Pakistani,4.2,images/restaurants/karakoram_abbottabad.jpg
+Bahawalpur,Kababish Restaurant,BBQ & Pakistani,4.4,images/restaurants/kababish_bahawalpur.jpg
+Bahawalpur,Four Seasons Bahawalpur,Continental,4.3,images/restaurants/four_seasons_bahawalpur.jpg
+Bahawalpur,City Rasoi,Pakistani,4.2,images/restaurants/city_rasoi.jpg
+Bahawalpur,Kala Dera Karahi,Pakistani Karahi,4.5,images/restaurants/kala_dera.jpg
+Bahawalpur,Sajji House Bahawalpur,Balochi Sajji,4.6,images/restaurants/sajji_house_bahawalpur.jpg
+Chitral,Hindukush Restaurant,Traditional Chitrali,4.5,images/restaurants/hindukush_restaurant.jpg
+Chitral,Pamir River Café,Local & Continental,4.3,images/restaurants/pamir_cafe.jpg
+Chitral,Tirich Mir Hotel Restaurant,Pakistani,4.2,images/restaurants/tirich_mir_restaurant.jpg
+Chitral,Mountain View Café,Café & Snacks,4.1,images/restaurants/mountain_view_cafe.jpg
+Chitral,Chitral Food Point,Local Trouts & BBQ,4.4,images/restaurants/chitral_food_point.jpg
+Dera Ghazi Khan,Al-Habib Restaurant,Pakistani,4.2,images/restaurants/al_habib_dgkhan.jpg
+Dera Ghazi Khan,Sajji Corner DG Khan,Balochi Sajji,4.4,images/restaurants/sajji_dgkhan.jpg
+Dera Ghazi Khan,Indus Fast Food,Fast Food,4.0,images/restaurants/indus_fast_food.jpg
+Dera Ghazi Khan,Chef's Table DG Khan,Pakistani & Chinese,4.3,images/restaurants/chefs_table_dgkhan.jpg
+Dera Ghazi Khan,Desi Dhaba DG Khan,Traditional Desi,4.1,images/restaurants/desi_dhaba_dgkhan.jpg
+Faisalabad,Silver Spoon Continental,Pakistani & Chinese,4.6,images/restaurants/silver_spoon_faisalabad.jpg
+Faisalabad,Baba Tikka Shop,Pakistani BBQ,4.8,images/restaurants/baba_tikka.jpg
+Faisalabad,Portobello Restaurant,Continental,4.5,images/restaurants/portobello_faisalabad.jpg
+Faisalabad,Bundu Khan Faisalabad,BBQ & Desi,4.7,images/restaurants/bundu_khan_faisalabad.jpg
+Faisalabad,Roosters Fast Food,Fast Food,4.3,images/restaurants/roosters_faisalabad.jpg
+Gilgit,Rakaposhi Bakery & Café,Bakery & Coffee,4.6,images/restaurants/rakaposhi_bakery.jpg
+Gilgit,Park Hotel Restaurant,Local & Chinese,4.4,images/restaurants/park_hotel_restaurant.jpg
+Gilgit,Gilgit Serai Restaurant,Traditional Gilgiti & Trout,4.7,images/restaurants/gilgit_serai.jpg
+Gilgit,Shangrila Restaurant Gilgit,Pakistani,4.2,images/restaurants/shangrila_gilgit.jpg
+Gilgit,North Taste Café,Continental & Coffee,4.3,images/restaurants/north_taste.jpg
+Gujranwala,Bundu Khan Gujranwala,BBQ & Karahi,4.7,images/restaurants/bundu_khan_gujranwala.jpg
+Gujranwala,Shahbaz Tikka,Pakistani BBQ & Tikka,4.8,images/restaurants/shahbaz_tikka.jpg
+Gujranwala,Khizar Karahi,Pakistani Karahi,4.6,images/restaurants/khizar_karahi.jpg
+Gujranwala,Man-o-Salva,Desi & Chinese,4.4,images/restaurants/mano_salva.jpg
+Gujranwala,City Fish Corner,Fried Fish,4.5,images/restaurants/city_fish.jpg
+Hyderabad,Bombay Bakery,Cakes & Pastries,4.9,images/restaurants/bombay_bakery.jpg
+Hyderabad,Al-Madina Biryani,Sindhi Biryani,4.7,images/restaurants/al_madina_biryani.jpg
+Hyderabad,Bismillah Taabla Karahi,Karahi & BBQ,4.5,images/restaurants/bismillah_taabla.jpg
+Hyderabad,Royal Taj Restaurant,Pakistani & Chinese,4.4,images/restaurants/royal_taj.jpg
+Hyderabad,Barbeque Tonight Hyderabad,BBQ,4.6,images/restaurants/bbq_tonight_hyderabad.jpg
+Islamabad,Monal Restaurant Islamabad,Pakistani & Continental,4.9,images/restaurants/monal_islamabad.jpg
+Islamabad,Savour Foods Islamabad,Pulao & Kabab,4.7,images/restaurants/savour_foods_islamabad.jpg
+Islamabad,Kabul Restaurant,Afghan & Pashtun BBQ,4.8,images/restaurants/kabul_restaurant.jpg
+Islamabad,Tuscany Courtyard,Italian & Continental,4.6,images/restaurants/tuscany_courtyard.jpg
+Islamabad,Des Pardes Saidpur,Desi Fine Dining,4.5,images/restaurants/des_pardes.jpg
+Karachi,Kolachi Restaurant,Seafood & BBQ,4.9,images/restaurants/kolachi_karachi.jpg
+Karachi,Javed Nihari,Nihari,4.8,images/restaurants/javed_nihari.jpg
+Karachi,Burns Road Food Street,Traditional Street Food,4.8,images/restaurants/burns_road.jpg
+Karachi,Student Biryani,Biryani,4.6,images/restaurants/student_biryani.jpg
+Karachi,BBQ Tonight Clifton,Pakistani BBQ,4.7,images/restaurants/bbq_tonight_clifton.jpg
+Khuzdar,Balochistan Sajji House,Balochi Sajji,4.5,images/restaurants/balochistan_sajji.jpg
+Khuzdar,Moola Café & Restaurant,Local Pakistani,4.1,images/restaurants/moola_cafe.jpg
+Khuzdar,Khuzdar Fish & Tikka,BBQ & Fish,4.3,images/restaurants/khuzdar_fish.jpg
+Khuzdar,Al-Raza Restaurant,Pakistani,4.0,images/restaurants/al_raza_khuzdar.jpg
+Khuzdar,Central Karahi Point,Karahi,4.2,images/restaurants/central_karahi.jpg
+Lahore,Butt Karahi,Pakistani,4.8,images/restaurants/butt_karahi.jpg
+Lahore,Haveli Restaurant,Mughlai & Desi,4.8,images/restaurants/haveli_restaurant.jpg
+Lahore,Cooco's Den,Mughlai & Heritage,4.7,images/restaurants/coocos_den.jpg
+Lahore,Muhammadi Nahari,Nihari,4.6,images/restaurants/muhammadi_nahari.jpg
+Lahore,Yum Chinese & Thai,Pan-Asian,4.7,images/restaurants/yum_lahore.jpg
+Larkana,Sindh Green Restaurant,Sindhi & BBQ,4.3,images/restaurants/sindh_green.jpg
+Larkana,Al-Mehran Biryani,Biryani & Pulao,4.4,images/restaurants/al_mehran_biryani.jpg
+Larkana,Larkana Karahi House,Pakistani Karahi,4.2,images/restaurants/larkana_karahi.jpg
+Larkana,Royal Fast Food Larkana,Fast Food,4.0,images/restaurants/royal_fast_food_larkana.jpg
+Larkana,Chandka Fish House,Fried Fish,4.3,images/restaurants/chandka_fish.jpg
+Mardan,Tarlee Din Karahi,Pashtun Karahi & Chappli Kabab,4.7,images/restaurants/tarlee_din.jpg
+Mardan,Shinwari Karahi Mardan,Pashtun BBQ,4.6,images/restaurants/shinwari_mardan.jpg
+Mardan,Khyber Food Point,Desi & Fast Food,4.2,images/restaurants/khyber_food_mardan.jpg
+Mardan,Golden Grill Mardan,BBQ & Steaks,4.3,images/restaurants/golden_grill_mardan.jpg
+Mardan,Mardan Chappli Kabab House,Chappli Kabab,4.8,images/restaurants/mardan_chappli_kabab.jpg
+Mingora,Swat Fish Hut Fizagat,River Trout Fish,4.8,images/restaurants/swat_fish_hut.jpg
+Mingora,Shinwari Tikka Swat,Pashtun BBQ,4.6,images/restaurants/shinwari_swat.jpg
+Mingora,Prepared Trout Restaurant,Grilled Trout,4.7,images/restaurants/prepared_trout.jpg
+Mingora,Mingora Food Court,Local & Fast Food,4.2,images/restaurants/mingora_food_court.jpg
+Mingora,Green Valley Café,Café & Snacks,4.3,images/restaurants/green_valley_cafe.jpg
+Multan,Multani Sohan Halwa Hafiz,Traditional Sweets,4.9,images/restaurants/hafiz_sohan_halwa.jpg
+Multan,Shangrila Chinese Multan,Chinese & Pakistani,4.5,images/restaurants/shangrila_multan.jpg
+Multan,Naveed Karahi Multan,Mutton Karahi,4.7,images/restaurants/naveed_karahi.jpg
+Multan,Avari Xpress Restaurant,Continental,4.6,images/restaurants/avari_multan_restaurant.jpg
+Multan,BBQ Villa Multan,Pakistani BBQ,4.4,images/restaurants/bbq_villa_multan.jpg
+Muzaffarabad,Neelum View Restaurant,Local Kashmiri & Trout,4.6,images/restaurants/neelum_view_restaurant.jpg
+Muzaffarabad,Kashmir Continental,Pakistani & Kashmiri,4.3,images/restaurants/kashmir_continental.jpg
+Muzaffarabad,Riverfront Café,Coffee & Fast Food,4.4,images/restaurants/riverfront_cafe.jpg
+Muzaffarabad,Pir Chinasi Food Point,Desi BBQ,4.5,images/restaurants/pir_chinasi_food.jpg
+Muzaffarabad,Muzaffarabad Karahi House,Mutton Karahi,4.2,images/restaurants/muzaffarabad_karahi.jpg
+Nawabshah,Royal Biryani Nawabshah,Sindhi Biryani,4.4,images/restaurants/royal_biryani_nawabshah.jpg
+Nawabshah,Al-Harmain Restaurant,Pakistani,4.2,images/restaurants/al_harmain_restaurant.jpg
+Nawabshah,Nawabshah Karahi & BBQ,Karahi & Tikka,4.3,images/restaurants/nawabshah_karahi.jpg
+Nawabshah,City Fast Food Nawabshah,Fast Food,4.0,images/restaurants/city_fast_food_nawabshah.jpg
+Nawabshah,Indus Fish House,Fried Fish,4.1,images/restaurants/indus_fish_nawabshah.jpg
+Peshawar,Nisar Charsi Tikka,Pashtun BBQ & Karahi,4.9,images/restaurants/nisar_charsi_tikka.jpg
+Peshawar,Chef's Cellar Peshawar,Continental,4.6,images/restaurants/chefs_cellar_peshawar.jpg
+Peshawar,Jalil Kabab House,Chappli Kabab,4.8,images/restaurants/jalil_kabab.jpg
+Peshawar,Habibi Restaurant Peshawar,BBQ & Arabian,4.7,images/restaurants/habibi_peshawar.jpg
+Peshawar,Shiraz Rondo Peshawar,Pakistani & Chinese,4.5,images/restaurants/shiraz_rondo.jpg
+Quetta,Lehri Sajji House,Balochi Sajji,4.9,images/restaurants/lehri_sajji.jpg
+Quetta,Noman Dumpukht,Traditional Balochi Dumpukht,4.8,images/restaurants/noman_dumpukht.jpg
+Quetta,Usmania Restaurant Quetta,Pakistani & BBQ,4.5,images/restaurants/usmania_quetta.jpg
+Quetta,Safran Restaurant Quetta,Continental & Pakistani,4.6,images/restaurants/safran_quetta.jpg
+Quetta,Green Hotel Restaurant,Local Balochi & Pashtun,4.3,images/restaurants/green_hotel_quetta.jpg
+Rawalpindi,Savour Foods Rawalpindi,Pulao & Kabab,4.8,images/restaurants/savour_foods_rawalpindi.jpg
+Rawalpindi,Mehak Tikka Saddar,BBQ & Tikka,4.6,images/restaurants/mehak_tikka.jpg
+Rawalpindi,Bala Tikka Commercial Market,BBQ & Karahi,4.7,images/restaurants/bala_tikka.jpg
+Rawalpindi,Texas Steakhouse,Steaks & American,4.5,images/restaurants/texas_steakhouse.jpg
+Rawalpindi,Monool Restaurant,Pakistani,4.3,images/restaurants/monool_rawalpindi.jpg
+Sargodha,Mian Ji Hotel Lala Musa Branch,Daal & Roti,4.8,images/restaurants/mian_ji_sargodha.jpg
+Sargodha,Sargodha Fish House,Fried Fish,4.5,images/restaurants/sargodha_fish.jpg
+Sargodha,Royal Karahi Sargodha,Pakistani Karahi,4.3,images/restaurants/royal_karahi_sargodha.jpg
+Sargodha,City Fast Food Sargodha,Fast Food,4.1,images/restaurants/city_fast_food_sargodha.jpg
+Sargodha,Shangrila Restaurant Sargodha,Chinese & Pakistani,4.4,images/restaurants/shangrila_sargodha.jpg
+Sialkot,Silver Spoon Sialkot,Pakistani & Chinese,4.5,images/restaurants/silver_spoon_sialkot.jpg
+Sialkot,Bundu Khan Sialkot,BBQ & Karahi,4.6,images/restaurants/bundu_khan_sialkot.jpg
+Sialkot,Frangoz Fast Food,Fast Food & Burgers,4.4,images/restaurants/frangoz_sialkot.jpg
+Sialkot,BBQ Tonight Sialkot,Pakistani BBQ,4.6,images/restaurants/bbq_tonight_sialkot.jpg
+Sialkot,Kashmir Karahi House,Desi Karahi,4.3,images/restaurants/kashmir_karahi_sialkot.jpg
+Sukkur,Al-Madina Fish Sukkur,Indus River Fish,4.7,images/restaurants/al_madina_fish.jpg
+Sukkur,Royal Taj Sukkur,Pakistani & Chinese,4.4,images/restaurants/royal_taj_sukkur.jpg
+Sukkur,Sukkur Sajji House,Balochi Sajji,4.5,images/restaurants/sukkur_sajji.jpg
+Sukkur,Bismillah Biryani Sukkur,Sindhi Biryani,4.3,images/restaurants/bismillah_biryani_sukkur.jpg
+Sukkur,Indus View Karahi,Karahi & BBQ,4.4,images/restaurants/indus_view_karahi.jpg
+Turbat,Kech Sajji House,Balochi Sajji,4.6,images/restaurants/kech_sajji.jpg
+Turbat,Mekran Fish & Tikka,Fish & BBQ,4.3,images/restaurants/mekran_fish.jpg
+Turbat,Al-Sadaat Restaurant,Pakistani,4.1,images/restaurants/al_sadaat_restaurant.jpg
+Turbat,Turbat Fast Food,Fast Food,3.9,images/restaurants/turbat_fast_food.jpg
+Turbat,Baloch Karahi Point,Local Karahi,4.2,images/restaurants/baloch_karahi.jpg

@@ -1,0 +1,26 @@
+CityID,CityName,Province,Latitude,Longitude
+1,Islamabad,Islamabad Capital Territory,33.7294,73.0931
+2,Lahore,Punjab,31.5497,74.3436
+3,Karachi,Sindh,24.8607,67.0011
+4,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249
+5,Quetta,Balochistan,30.1798,66.9750
+6,Multan,Punjab,30.1575,71.5249
+7,Faisalabad,Punjab,31.4187,73.0790
+8,Rawalpindi,Islamabad Capital Territory,33.5651,73.0169
+9,Hyderabad,Sindh,25.3960,68.3578
+10,Gujranwala,Punjab,32.1877,74.1945
+11,Abbottabad,Khyber Pakhtunkhwa,34.1558,73.2194
+12,Sialkot,Punjab,32.4945,74.5229
+13,Sukkur,Sindh,27.7052,68.8570
+14,Larkana,Sindh,27.5570,68.2096
+15,Sargodha,Punjab,32.0836,72.6711
+16,Bahawalpur,Punjab,29.3956,71.6836
+17,Mardan,Khyber Pakhtunkhwa,34.1986,72.0404
+18,Mingora,Khyber Pakhtunkhwa,34.7730,72.3600
+19,Dera Ghazi Khan,Punjab,30.0490,70.6340
+20,Nawabshah,Sindh,26.2500,68.4100
+21,Muzaffarabad,Azad Kashmir,34.3700,73.4700
+22,Gilgit,Gilgit-Baltistan,35.9220,74.3080
+23,Chitral,Khyber Pakhtunkhwa,35.8510,71.7870
+24,Turbat,Balochistan,26.0020,63.0440
+25,Khuzdar,Balochistan,27.8120,66.6080

@@ -1,0 +1,38 @@
+SourceCity,DestinationCity,Distance,TravelTime,FuelCost,RoadCondition
+Islamabad,Rawalpindi,15,0.3,200,Excellent
+Islamabad,Lahore,375,4.5,5000,Excellent
+Islamabad,Peshawar,180,2.5,2500,Good
+Islamabad,Abbottabad,110,2.0,1500,Good
+Islamabad,Muzaffarabad,140,3.0,2000,Fair
+Rawalpindi,Abbottabad,105,2.0,1400,Good
+Rawalpindi,Peshawar,170,2.5,2300,Good
+Lahore,Faisalabad,130,2.0,1800,Excellent
+Lahore,Gujranwala,80,1.2,1100,Excellent
+Lahore,Sialkot,125,2.0,1700,Good
+Lahore,Multan,340,4.0,4500,Excellent
+Lahore,Bahawalpur,420,5.0,5600,Good
+Faisalabad,Sargodha,100,1.5,1400,Good
+Faisalabad,Multan,210,3.0,2800,Good
+Gujranwala,Sialkot,45,0.8,600,Good
+Multan,Bahawalpur,95,1.5,1300,Good
+Multan,Dera Ghazi Khan,180,2.5,2400,Fair
+Multan,Sukkur,430,6.0,5800,Fair
+Bahawalpur,Dera Ghazi Khan,200,3.0,2700,Fair
+Peshawar,Mardan,63,1.0,850,Good
+Peshawar,Mingora,155,2.5,2100,Fair
+Peshawar,Chitral,340,7.0,4600,Poor
+Mardan,Mingora,110,2.0,1500,Fair
+Abbottabad,Muzaffarabad,120,2.5,1600,Fair
+Muzaffarabad,Gilgit,350,7.0,4700,Poor
+Gilgit,Chitral,320,8.0,4300,Poor
+Karachi,Hyderabad,160,2.0,2200,Excellent
+Karachi,Sukkur,480,6.5,6500,Good
+Hyderabad,Sukkur,320,4.0,4300,Good
+Hyderabad,Nawabshah,110,1.5,1500,Good
+Sukkur,Larkana,80,1.2,1100,Good
+Sukkur,Quetta,520,8.0,7000,Fair
+Larkana,Nawabshah,190,2.5,2600,Good
+Quetta,Khuzdar,220,4.0,3000,Fair
+Quetta,Turbat,700,12.0,9500,Poor
+Khuzdar,Turbat,490,9.0,6600,Poor
+Dera Ghazi Khan,Quetta,420,7.0,5700,Fair

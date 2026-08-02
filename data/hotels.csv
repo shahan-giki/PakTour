@@ -1,0 +1,126 @@
+city,name,stars,pricePerNight,rating,image
+Abbottabad,Hotel One Abbottabad,3,12000,4.2,images/hotels/hotel_one_abbottabad.jpg
+Abbottabad,Pine Park Hotel,4,16000,4.5,images/hotels/pine_park_abbottabad.jpg
+Abbottabad,Sarban Hotel,3,9500,4.0,images/hotels/sarban_hotel.jpg
+Abbottabad,Dimobe Executive Hotel,3,11000,4.1,images/hotels/dimobe_hotel.jpg
+Abbottabad,Regent Hotel,2,7000,3.8,images/hotels/regent_abbottabad.jpg
+Bahawalpur,Hotel One Bahawalpur,3,11500,4.3,images/hotels/hotel_one_bahawalpur.jpg
+Bahawalpur,Grand Regency Hotel,4,15000,4.6,images/hotels/grand_regency_bahawalpur.jpg
+Bahawalpur,Pelican Hotel,3,10000,4.1,images/hotels/pelican_hotel.jpg
+Bahawalpur,Tazij Hotel,3,8500,3.9,images/hotels/tazij_hotel.jpg
+Bahawalpur,Al-Haram Hotel,2,6500,3.7,images/hotels/al_haram_bahawalpur.jpg
+Chitral,Hindukush Heights,4,22000,4.7,images/hotels/hindukush_heights.jpg
+Chitral,Pamir Hotel Chitral,3,11000,4.2,images/hotels/pamir_hotel_chitral.jpg
+Chitral,Mountain View Hotel,3,9000,4.0,images/hotels/mountain_view_chitral.jpg
+Chitral,Chitral Inn,2,7000,3.8,images/hotels/chitral_inn.jpg
+Chitral,Green Hill Hotel,2,6000,3.6,images/hotels/green_hill_chitral.jpg
+Dera Ghazi Khan,Hotel Shalimar DG Khan,3,9000,4.0,images/hotels/shalimar_dgkhan.jpg
+Dera Ghazi Khan,Royal Palace Hotel,3,10500,4.2,images/hotels/royal_palace_dgkhan.jpg
+Dera Ghazi Khan,Indus Hotel,3,8000,3.9,images/hotels/indus_hotel_dgkhan.jpg
+Dera Ghazi Khan,Al-Madina Inn,2,6000,3.6,images/hotels/al_madina_dgkhan.jpg
+Dera Ghazi Khan,City Gate Hotel,2,5500,3.5,images/hotels/city_gate_dgkhan.jpg
+Faisalabad,Serena Hotel Faisalabad,5,24000,4.8,images/hotels/serena_faisalabad.jpg
+Faisalabad,Hotel One Faisalabad,3,13000,4.3,images/hotels/hotel_one_faisalabad.jpg
+Faisalabad,Grand Regency Faisalabad,4,17000,4.5,images/hotels/grand_regency_faisalabad.jpg
+Faisalabad,Ramee Royal Hotel,3,11000,4.1,images/hotels/ramee_royal.jpg
+Faisalabad,City Inn Faisalabad,2,7500,3.8,images/hotels/city_inn_faisalabad.jpg
+Gilgit,Serena Hotel Gilgit,5,28000,4.9,images/hotels/serena_gilgit.jpg
+Gilgit,Hotel Park Hotel Gilgit,3,12000,4.3,images/hotels/park_hotel_gilgit.jpg
+Gilgit,Riverview Hotel,3,10000,4.1,images/hotels/riverview_gilgit.jpg
+Gilgit,Gilgit Gateway Hotel,3,9500,4.0,images/hotels/gateway_gilgit.jpg
+Gilgit,North Inn Gilgit,2,7000,3.7,images/hotels/north_inn_gilgit.jpg
+Gujranwala,Hotel One Gujranwala,3,12500,4.3,images/hotels/hotel_one_gujranwala.jpg
+Gujranwala,Rachna Pearl Hotel,4,16500,4.6,images/hotels/rachna_pearl.jpg
+Gujranwala,Mughal Executive Hotel,3,10000,4.1,images/hotels/mughal_gujranwala.jpg
+Gujranwala,Crown Inn Gujranwala,2,7500,3.8,images/hotels/crown_inn_gujranwala.jpg
+Gujranwala,Al-Khair Hotel,2,6000,3.6,images/hotels/al_khair_gujranwala.jpg
+Hyderabad,Hotel Crown Plaza Hyderabad,4,15000,4.4,images/hotels/crown_plaza_hyderabad.jpg
+Hyderabad,Indus Hotel Hyderabad,3,11000,4.2,images/hotels/indus_hotel_hyderabad.jpg
+Hyderabad,Hotel One Hyderabad,3,13000,4.3,images/hotels/hotel_one_hyderabad.jpg
+Hyderabad,Faran Hotel,2,7500,3.8,images/hotels/faran_hotel.jpg
+Hyderabad,City Palace Hyderabad,2,6500,3.6,images/hotels/city_palace_hyderabad.jpg
+Islamabad,Serena Hotel Islamabad,5,35000,4.9,images/hotels/serena_islamabad.jpg
+Islamabad,Marriott Hotel Islamabad,5,32000,4.8,images/hotels/marriott_islamabad.jpg
+Islamabad,The Centaurus Hotel,5,29000,4.7,images/hotels/centaurus_hotel.jpg
+Islamabad,Hotel One Super Market,3,16000,4.4,images/hotels/hotel_one_islamabad.jpg
+Islamabad,Ramada by Wyndham,4,22000,4.6,images/hotels/ramada_islamabad.jpg
+Karachi,Pearl Continental Karachi,5,28000,4.8,images/hotels/pc_karachi.jpg
+Karachi,Movenpick Hotel Karachi,5,27000,4.7,images/hotels/movenpick_karachi.jpg
+Karachi,Marriott Hotel Karachi,5,26000,4.7,images/hotels/marriott_karachi.jpg
+Karachi,Avari Towers Karachi,5,25000,4.6,images/hotels/avari_towers.jpg
+Karachi,Hotel Beach Luxury,4,18000,4.3,images/hotels/beach_luxury.jpg
+Khuzdar,Khuzdar Palace Hotel,3,8500,4.0,images/hotels/khuzdar_palace.jpg
+Khuzdar,Al-Mustafa Inn,2,6000,3.7,images/hotels/al_mustafa_khuzdar.jpg
+Khuzdar,Balochistan Residency,3,9000,4.1,images/hotels/balochistan_residency.jpg
+Khuzdar,City View Khuzdar,2,5500,3.5,images/hotels/city_view_khuzdar.jpg
+Khuzdar,Sardari Guest House,2,5000,3.4,images/hotels/sardari_guest_house.jpg
+Lahore,Pearl Continental,5,18000,4.8,images/hotels/pc_lahore.jpg
+Lahore,Avari Hotel Lahore,5,20000,4.8,images/hotels/avari_lahore.jpg
+Lahore,Faletti's Hotel,5,22000,4.7,images/hotels/falettis_lahore.jpg
+Lahore,Nishat Hotel Gulberg,5,25000,4.9,images/hotels/nishat_lahore.jpg
+Lahore,Park Lane Hotel,4,14000,4.4,images/hotels/park_lane_lahore.jpg
+Larkana,Sambara Inn Larkana,3,9500,4.1,images/hotels/sambara_inn.jpg
+Larkana,Indus Hotel Larkana,3,8500,3.9,images/hotels/indus_larkana.jpg
+Larkana,Royal Palace Larkana,2,7000,3.7,images/hotels/royal_palace_larkana.jpg
+Larkana,Al-Mansoor Hotel,2,6000,3.5,images/hotels/al_mansoor_larkana.jpg
+Larkana,City Guest House Larkana,2,5000,3.4,images/hotels/city_guest_house_larkana.jpg
+Mardan,Golden Gate Hotel Mardan,3,10000,4.2,images/hotels/golden_gate_mardan.jpg
+Mardan,Hotel One Mardan,3,12000,4.3,images/hotels/hotel_one_mardan.jpg
+Mardan,Green Hotel Mardan,2,7000,3.8,images/hotels/green_hotel_mardan.jpg
+Mardan,City Palace Mardan,2,6500,3.6,images/hotels/city_palace_mardan.jpg
+Mardan,Khyber Inn Mardan,2,5500,3.5,images/hotels/khyber_inn_mardan.jpg
+Mingora,Serena Hotel Swat,5,26000,4.9,images/hotels/serena_swat.jpg
+Mingora,Swat Continental Hotel,3,11000,4.2,images/hotels/swat_continental.jpg
+Mingora,Rock City Resort,4,17000,4.6,images/hotels/rock_city_swat.jpg
+Mingora,Hotel White Palace Murghazar,4,19000,4.7,images/hotels/white_palace.jpg
+Mingora,Pamir Hotel Swat,3,9500,4.0,images/hotels/pamir_swat.jpg
+Multan,Ramada by Wyndham Multan,4,19000,4.7,images/hotels/ramada_multan.jpg
+Multan,Hotel One Multan,3,13000,4.3,images/hotels/hotel_one_multan.jpg
+Multan,Avari Xpress Multan,4,17000,4.6,images/hotels/avari_xpress_multan.jpg
+Multan,Faletti's Grand Multan,4,18000,4.6,images/hotels/falettis_multan.jpg
+Multan,Sheza Inn Multan,3,9000,4.0,images/hotels/sheza_inn_multan.jpg
+Muzaffarabad,Pearl Continental Bhurban,5,30000,4.9,images/hotels/pc_bhurban.jpg
+Muzaffarabad,Neelum View Hotel,3,12000,4.4,images/hotels/neelum_view.jpg
+Muzaffarabad,Miramar Hotel,3,10000,4.1,images/hotels/miramar_muzaffarabad.jpg
+Muzaffarabad,Sangam Hotel Muzaffarabad,3,11000,4.2,images/hotels/sangam_hotel.jpg
+Muzaffarabad,Kashmir Lodge,2,7000,3.8,images/hotels/kashmir_lodge.jpg
+Nawabshah,Hotel One Nawabshah,3,11000,4.2,images/hotels/hotel_one_nawabshah.jpg
+Nawabshah,Al-Harmain Hotel,2,6500,3.7,images/hotels/al_harmain_nawabshah.jpg
+Nawabshah,Royal Palace Nawabshah,3,8500,3.9,images/hotels/royal_palace_nawabshah.jpg
+Nawabshah,Indus Guest House,2,5500,3.5,images/hotels/indus_guest_house.jpg
+Nawabshah,City Gate Nawabshah,2,5000,3.4,images/hotels/city_gate_nawabshah.jpg
+Peshawar,Serena Hotel Peshawar,5,25000,4.8,images/hotels/serena_peshawar.jpg
+Peshawar,Pearl Continental Peshawar,5,24000,4.7,images/hotels/pc_peshawar.jpg
+Peshawar,Shelton's Rezidor Hotel,4,16000,4.4,images/hotels/sheltons_peshawar.jpg
+Peshawar,Hotel Grand Peshawar,3,11000,4.2,images/hotels/grand_peshawar.jpg
+Peshawar,Emirates Hotel Peshawar,3,9500,4.0,images/hotels/emirates_peshawar.jpg
+Quetta,Serena Hotel Quetta,5,27000,4.8,images/hotels/serena_quetta.jpg
+Quetta,Grand Hotel Quetta,3,11000,4.2,images/hotels/grand_quetta.jpg
+Quetta,Hotel Bloom Star,3,10000,4.1,images/hotels/bloom_star_quetta.jpg
+Quetta,Lashari Hotel,2,7000,3.7,images/hotels/lashari_quetta.jpg
+Quetta,Al-Hamd Hotel,2,6000,3.5,images/hotels/al_hamd_quetta.jpg
+Rawalpindi,Pearl Continental Rawalpindi,5,26000,4.8,images/hotels/pc_rawalpindi.jpg
+Rawalpindi,Shalimar Hotel Rawalpindi,4,15000,4.4,images/hotels/shalimar_rawalpindi.jpg
+Rawalpindi,Hotel Flashman's,3,11000,4.1,images/hotels/flashmans_rawalpindi.jpg
+Rawalpindi,Hotel City Park,3,9500,4.0,images/hotels/city_park_rawalpindi.jpg
+Rawalpindi,Mid Town Hotel,2,7000,3.7,images/hotels/mid_town_rawalpindi.jpg
+Sargodha,Hotel One Sargodha,3,12000,4.3,images/hotels/hotel_one_sargodha.jpg
+Sargodha,Royal Hotel Sargodha,3,9500,4.0,images/hotels/royal_sargodha.jpg
+Sargodha,City Palace Sargodha,3,8500,3.9,images/hotels/city_palace_sargodha.jpg
+Sargodha,Al-Rehman Hotel,2,6500,3.7,images/hotels/al_rehman_sargodha.jpg
+Sargodha,Green Land Hotel,2,5500,3.5,images/hotels/green_land_sargodha.jpg
+Sialkot,Hotel One Sialkot,3,13000,4.4,images/hotels/hotel_one_sialkot.jpg
+Sialkot,Gondal Hotel Sialkot,3,10500,4.2,images/hotels/gondal_sialkot.jpg
+Sialkot,Javaid Hotel,3,9000,4.0,images/hotels/javaid_hotel.jpg
+Sialkot,Mughal Executive Sialkot,2,7500,3.8,images/hotels/mughal_sialkot.jpg
+Sialkot,Royal Inn Sialkot,2,6000,3.6,images/hotels/royal_inn_sialkot.jpg
+Sukkur,Interpak Inn Sukkur,4,14000,4.4,images/hotels/interpak_inn.jpg
+Sukkur,Hotel One Sukkur,3,12000,4.3,images/hotels/hotel_one_sukkur.jpg
+Sukkur,Royal Palace Sukkur,3,9500,4.0,images/hotels/royal_palace_sukkur.jpg
+Sukkur,Al-Madina Hotel,2,6500,3.7,images/hotels/al_madina_sukkur.jpg
+Sukkur,City Gate Sukkur,2,5500,3.5,images/hotels/city_gate_sukkur.jpg
+Turbat,Mekran Palace Hotel,3,8500,4.0,images/hotels/mekran_palace.jpg
+Turbat,Kech Guest House,2,6000,3.7,images/hotels/kech_guest_house.jpg
+Turbat,Al-Sadaat Hotel,2,5500,3.5,images/hotels/al_sadaat_turbat.jpg
+Turbat,Turbat Inn,2,5000,3.4,images/hotels/turbat_inn.jpg
+Turbat,Balochistan Residency Turbat,2,4800,3.3,images/hotels/balochistan_residency_turbat.jpg
